@@ -26,8 +26,3 @@ Simple clean and user-friendly UI for the blind
 ## What's next for Drishti - A virtual AI assistant for the blind
 A smarter android integration, with an activity that spans not just an app. A full-fledged Siri style assistant.
 
-## Contributors
-1. <a href="https://github.com/sanjay-kd">Sanjay Kumar </a> (Android App Dev.)
-2. <a href="https://github.com/yashagarwal23">Yash Agarwal </a> (Android App Dev.)
-3. <a href="https://github.com/devanshbatra04">Devansh Batra </a> (AI + Cloud)
-4. <a href="https://github.com/avinsit123">Avinash </a> (Machine Learning)
