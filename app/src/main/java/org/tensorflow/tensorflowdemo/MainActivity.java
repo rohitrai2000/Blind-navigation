@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity implements TextToSpeech.OnIn
                 Log.e("TTS", "This Language is not supported");
             } else {
                 if (isIntro){
-                    textToSpeech.speak("Welcome to Drishti, Speak One for finding an object", TextToSpeech.QUEUE_FLUSH, null);
+                    textToSpeech.speak("Welcome to Gits Blind Navigation Click on center of the screen and say help me to finding an object", TextToSpeech.QUEUE_FLUSH, null);
                     getSpeechInput();
                 }
                 else{
